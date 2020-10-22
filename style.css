@@ -140,6 +140,19 @@ select{
 }
 @media only screen and (max-width: 450px){
     form input{
-margin-left: 150px;
-max-width: 250px;
+margin-left: 40px;
+
+}}
+
+@media only screen and (max-width: 450px){
+    body > form{
+ 
+       
+}}
+
+@media only screen and (max-width: 450px){
+.select{
+position: absolute;
+margin-top: 150px;
+margin-left: 140px;
 }}
